@@ -1,0 +1,13 @@
+#dialog_box {
+    position: fixed;
+    top: 30%;
+    left: 30%;
+    width: 500px;
+    height: 250px;
+    background: black;
+    color: white;
+    border: 10px;
+    border-style: solid;
+    border-color: #22436D;
+    padding: 10px;
+}
